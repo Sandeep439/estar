@@ -20,7 +20,7 @@ body{
     right: 0%;
     width: 100%;
     height: 363px;
-    background-color: #fef9f8;
+    background-color: indigo;
 }
 .links{
     position: absolute;
